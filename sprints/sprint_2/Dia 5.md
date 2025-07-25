@@ -34,4 +34,6 @@
 
 ## 🔜 Próximos Passos
 
--Pesquisar sobre issues.
+- Pesquisar sobre issues.
+- Estudar ferramentas que auxiliam na documentação de testes exploratórios (ex: TestBuddy, Session Tester).
+
